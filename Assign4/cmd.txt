@@ -1,0 +1,13 @@
+terminal 1:
+javac MasterClock.java SlaveClock.java
+java MasterClock
+
+
+terminal 2:
+java SlaveClock
+
+terminal 3:
+java SlaveClock
+
+terminal 4:
+java SlaveClock
